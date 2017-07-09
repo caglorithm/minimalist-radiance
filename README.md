@@ -2,6 +2,12 @@
 
 Generates desktop backgrounds by blending random gradients with random masks. Simple and colourful. Generate one - or generate a million.
 
+![Sample1](/samples/sample1.png?raw=true "Sample 1")
+
+![Sample2](/samples/sample2.png?raw=true "Sample 2")
+
+![Sample3](/samples/sample3.png?raw=true "Sample 3")
+
 ## Requirements
 
 Requires the Python imaging library (PIL, or pillow).
