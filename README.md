@@ -10,7 +10,7 @@ Generates desktop backgrounds by blending random gradients with random masks. Si
 
 ## Requirements
 
-Requires the Python imaging library (PIL, or pillow).
+Requires the Python imaging library (PIL, or pillow). And requires numpy..? Originally I did not make this to share ;)
 
 ## Usage
 
