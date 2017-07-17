@@ -12,6 +12,8 @@ Generates desktop backgrounds by blending random gradients with random masks. Si
 
 Requires the Python imaging library (PIL, or pillow). And requires numpy..? Originally I did not make this to share ;)
 
+	pip3 install pillow numpy
+
 ## Usage
 
 This run with default settings generates 3 images, 1920x1080, in a folder called 'output'.
